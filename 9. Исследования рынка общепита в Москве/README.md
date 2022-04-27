@@ -7,3 +7,5 @@
 * Сделать презентацию
 # Используемые библиотеки
 pandas, matplotlib, register_matplotlib_converters(), seaborn, scipy, math, numpy, plotly.express, plotly.graph_objects
+
+**( к сожалению в самом проекте графики plotly не прогрузились на GitHub, они есть в презентации)**
