@@ -16,3 +16,6 @@
 * Выяснить, какой шрифт лучше на основе результатов A/A/B-теста.
 # Используемые библиотеки
 pandas, numpy, seaborn, matplotlib, register_matplotlib_converters(), scipy, plotly, graph_objects, math
+
+**приложение: изображение гравика воронки, в проекте не отображается**
+
